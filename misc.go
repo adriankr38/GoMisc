@@ -1,4 +1,4 @@
-package GoMisc
+package misc
 
 import (
 	"strings"
